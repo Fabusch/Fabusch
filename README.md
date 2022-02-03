@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fabusch
 - 👀 I’m interested in Angular and Webapplikations
 - 🌱 I’m currently learning C++ for Fun
-- 💞 Ruby and Элла
+- 💞 Python 
 
 - 📫 How to reach me fabiansuchan@googlemail.com
 
